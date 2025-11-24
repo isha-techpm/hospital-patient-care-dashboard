@@ -7,8 +7,8 @@ The report highlights key hospital KPIs—including patient volume, satisfaction
 
 ## 🖼️ Dashboard Preview
 
-![Main Dashboard](assets/dashboard_1.png)
-![LOS Dashboard](assets/dashboard_2.png)
+![Main Dashboard](assets/dashboard1.png)
+![LOS Dashboard](assets/dashboard2.png)
 
 ---
 
